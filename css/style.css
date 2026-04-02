@@ -829,7 +829,6 @@ body{
     display: flex;
 }
 .weather-icon{
-    filter: invert(1);
     font-size: 25px;
     line-height: 1.5;
     padding-top: 13px;
